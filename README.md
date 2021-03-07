@@ -1,4 +1,4 @@
-# React Tailwindcss Bolerplate
+# NextJS Tailwindcss Bolerplate
 
 This is a [NextJS](https://nextjs.org) boilerplate to be used with [Tailwindcss](https://tailwindcss.com).
 
