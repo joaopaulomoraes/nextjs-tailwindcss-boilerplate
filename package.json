@@ -9,8 +9,8 @@
     "url": "https://github.com/joaopaulomoraes"
   },
   "bugs": {
-    "url" : "https://github.com/joaopaulomoraes/nextjs-tailwindcss-boilerplate/issues",
-    "email" : "joaopaulomoraes@outlook.com"
+    "url": "https://github.com/joaopaulomoraes/nextjs-tailwindcss-boilerplate/issues",
+    "email": "joaopaulomoraes@outlook.com"
   },
   "scripts": {
     "dev": "next dev",
@@ -19,7 +19,7 @@
     "lint": "eslint src --max-warnings=0"
   },
   "dependencies": {
-    "next": "10.0.8",
+    "next": "^10.2.3",
     "react": "17.0.1",
     "react-dom": "17.0.1"
   },
@@ -36,7 +36,7 @@
     "eslint-plugin-react-hooks": "^4.2.0",
     "postcss": "^8.2.7",
     "prettier": "2.2.1",
-    "tailwindcss": "^2.0.3",
+    "tailwindcss": "^2.1.4",
     "typescript": "^4.2.3"
   }
 }
