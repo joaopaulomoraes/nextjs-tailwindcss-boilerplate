@@ -21,13 +21,13 @@ This project uses lot of stuff as:
 Cloning the project.
 
 ```bash
-git clone https://github.com/joaopaulomoraes/nextjs-tailwindcss-boilerplate.git nextjs-tailwindcss-boilerplate
+npx create-next-app -e https://github.com/joaopaulomoraes/nextjs-tailwindcss-boilerplate your-app
 ```
 
 Access the project directory.
 
 ```bash
-cd nextjs-tailwindcss-boilerplate
+cd your-app
 ```
 
 Install dependencies.
