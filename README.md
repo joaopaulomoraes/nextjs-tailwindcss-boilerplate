@@ -19,28 +19,32 @@ This project uses lot of stuff as:
 ### Installing
 
 Cloning the project.
+
 ```bash
 git clone https://github.com/joaopaulomoraes/nextjs-tailwindcss-boilerplate.git nextjs-tailwindcss-boilerplate
 ```
 
 Access the project directory.
+
 ```bash
 cd nextjs-tailwindcss-boilerplate
 ```
 
 Install dependencies.
-```
+
+```bash
 yarn install
 ```
 
 Serve with hot reload at http://localhost:3000.
-```
+
+```bash
 yarn dev
 ```
 
 ### Build
 
-```
+```bash
 yarn build
 ```
 
