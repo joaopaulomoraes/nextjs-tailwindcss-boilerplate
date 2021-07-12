@@ -1,4 +1,4 @@
-# NextJS Tailwindcss Bolerplate
+# NextJS Tailwindcss Boilerplate
 
 This is a [NextJS](https://nextjs.org) boilerplate to be used with [Tailwindcss](https://tailwindcss.com).
 
@@ -8,6 +8,8 @@ This project uses lot of stuff as:
 
 - [NextJS](https://nextjs.org)
 - [TypeScript](https://www.typescriptlang.org)
+- [Jest](https://jestjs.io)
+- [Testing Library](https://testing-library.com)
 - [Tailwindcss](https://tailwindcss.com)
 - [Eslint](https://eslint.org)
 - [Prettier](https://prettier.io)

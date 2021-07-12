@@ -1,3 +1,5 @@
+import Avatar from 'components/Avatar'
+
 export default function Home() {
   return (
     <div className="bg-white">
@@ -10,6 +12,9 @@ export default function Home() {
             nextjs-tailwindcss-boilerplate
           </p>
           <p className="text-xl text-gray-400">Start building for free.</p>
+          <p className="mt-5">
+            <Avatar size="large" />
+          </p>
         </div>
       </div>
     </div>
